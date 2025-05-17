@@ -12,7 +12,6 @@
 - 🌱 Learning: **Rust, WebAssembly, and GraphQL**
 - 💬 Ask me about: **React, Python, or Smart Contracts**
 - ⚡ Fun fact: I once coded a game in 48 hours for a hackathon! 🎮
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
 
 ---
 
